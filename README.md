@@ -4,7 +4,9 @@
 <p>今後は、PHPとJavaScriptを追加します。</p>
 <h2>サイト</h2>
 <h3>ヘッダー部分</h3>
-<img width="1780" alt="スクリーンショット 2020-08-20 1 26 09" src="https://user-images.githubusercontent.com/69723183/90663811-19d2e200-e285-11ea-80c9-0f139785c43e.png">
+<img width="1786" alt="スクリーンショット 2020-08-15 21 00 44" src="https://user-images.githubusercontent.com/69723183/90664290-c01ee780-e285-11ea-9449-2dcb55471d7d.png">
+
+
 <h2>予約部分</h2>
 <img width="1792" alt="スクリーンショット 2020-08-20 1 26 21" src="https://user-images.githubusercontent.com/69723183/90663929-4686f980-e285-11ea-9a39-534c38949ff0.png">
 
@@ -15,9 +17,15 @@
 
 
 <h2>フッター部分</h2>
+<img width="1643" alt="スクリーンショット 2020-08-20 1 27 04" src="https://user-images.githubusercontent.com/69723183/90664649-dfb61000-e285-11ea-9b6a-85df9b80e5c9.png">
+<h2>トップに戻るボタン</h2>
+<img width="119" alt="スクリーンショット 2020-08-20 1 27 34" src="https://user-images.githubusercontent.com/69723183/90664769-0ecc8180-e286-11ea-9cca-e1cf8fd64b3d.png">
+<p>今回は、まだ未完成でHTMLとCSSしかできてませんが、コンセプトとしましては、高級感・幻想的に見せれるようにコーディングをしています。</p>
 <h2>今後について</h2>
  <ul>
-   <li>①今後は、RPGゲームを作っていきます。</li>
+   <li>①JavaScriptを導入する</li>
+   <li>②PHPでの予約システムの追加</li>
+   <li>③CSSデザインの直し</li>
  </ul>
   
  <p>最後まで見ていただきありがとうございました。</p>
